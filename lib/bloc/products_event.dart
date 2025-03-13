@@ -1,13 +1,13 @@
-part of 'products_bloc.dart';
+// part of 'products_bloc.dart';
 
-sealed class ProductsEvent extends Equatable {
-  const ProductsEvent();
+// sealed class ProductsEvent extends Equatable {
+//   const ProductsEvent();
 
-  @override
-  List<Object> get props => [];
-}
+//   @override
+//   List<Object> get props => [];
+// }
 
-class ProductsLoadedEvents extends Equatable {
-  @override
-  List<Object> get props => [];
-}
+// class ProductsLoadedEvents extends Equatable {
+//   @override
+//   List<Object> get props => [];
+// }
